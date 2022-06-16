@@ -1,0 +1,69 @@
+.header {
+    background-color: rgb(48, 48, 48);
+    height: 44px;
+}
+
+.logo {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALEAAACFCAMAAAAjHOlMAAAAOVBMVEX///+mqqujp6ioqav4+Pigo6XY2Nna29z7+/vz8/Td3t/i4+OxtLWsr7DOz9C4u7zs7Oy/wcLGyMmTBmjEAAAC0ElEQVR4nO2ay5LjIAxFjUB+YR72/3/sQJJOjzOeHqzFXLtKp1JZmM0pCiQQ6jpFURRFURRFURRFURRFUSrO9yPa4QRuWCzRhNZoJwYmY8xtjP1SdQsObdJIzy/hgDZpJL58DSW0ShuRX8KGe7RLE95+CZt7hApn6C28oWWaeC/iYuzRMi1k8y28omWa+G2KOaNlWhjDl7GlGS3TRP6ObBHt0kb/ZUw3Ee7WpzHRPXJHIdHDN91i0z1ITBzWe+y5J/0W/bVT85T9PPt8IJl9v21b7P2lFsi8LoaY2YR1v9Ncn0IZICKmkOJFzvVTLErWlpNa+bPMq3+JOb+WgfL5mUkeY1dYKUP4zseviLbEPLocF/oYKWMWHp5d4k+r6sz19+dAmWhO2KUxLUdeZR1Ye/S9fqYFqTyZQ+GfoYArt7jjGf6n8gpTXkXCxm4o4+Fg0zXMsIHlbvcZ1hrBXfriX+LBT5Q0gkvWLgiMDfK8PLDAmJGVC1FkY2D2mOhma6KbJVMckEe3KMnP0PqbJN8xsv4mOlIg9103hfPCxgKFyznzPLQgjfO/BdVYjVvA7jxBjr5hdMNmkCTJ0sgnnFF0K4WehDaBsYW+9vayUgWwlyWLjJG3plES3sokDzjlRWRsCHf7ly1kA6ywZFENq4IKGG6RVFgqjHrliyw0NmQwbzhZOse16I1JfsJoYXBlgFm891AhzklOnKb2iMAa9iR1oWrMsCq96CJioO9jUfYSAjxzip5CsFdqSaEeetvrunTW2KJbIqfzqRrdGTKcW8kWvCYq58oAV+jhHM/EC9QRaI8/YXyRptP2ExHyXrpjn/rso+2GawfWR+i7UNPp7pZKZFIc5nmIyex6my7VdDo8229qGxCn4b27pj69G5zoYr3p00oPwjrtClVjXu1jwG5XiBI7piHG3h/U1Ubfl4GLtBMqiqIoiqIoiqIoiqIoyn/gF56eGbzvqKXIAAAAAElFTkSuQmCC);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+nav {
+    width: 100%;
+    float: right;
+    font-size: 12px;
+    font-weight: 200;
+    opacity: 0.8;
+}
+
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    height: 44px;
+    align-items: center;
+    justify-content: space-between;
+    color: #F5F5F7;
+}
+
+.item1 {
+    flex-basis: 100%;
+    height: 44px;
+    line-height: 44px;
+    text-align: center;
+  }
+
+.item1:hover {
+    color: white;
+    font-weight: bold;
+}
+
+.section1 {
+    background-color: #fbfbfd;
+    width: 100%;
+    height: 46px;
+    line-height: 46px;
+    font-size: 12px;
+    text-align: center;
+}
+
+#text1 {
+    color: #0066CC;
+}
+
+.section2 {
+    width: 100%;
+    height: 570px;
+    background-color: #fff;
+}
+
+
+.footer {
+    background-color: blanchedalmond;
+}
+
+
+
+

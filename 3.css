@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+
+th {
+    background-color: rgb(237, 238, 240);
+    text-align: left;
+    height: 50px;
+    line-height: 50px;
+}
+
+td {
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    width: 300px;
+}
+
+span {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
